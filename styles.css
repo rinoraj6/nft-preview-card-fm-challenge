@@ -32,13 +32,14 @@ main{
     display: flex; 
 }
 .container{
-    margin: 5rem auto;
+    margin: 10rem auto;
     /* border: 2px solid white; */
     padding: 1.5rem;
     width: 80%;
     max-width: 360px;
     background-color: var(--VerydarkblueCard);
     border-radius: 1rem;
+    box-shadow: -2px 22px 0px 16px rgba(0, 1, 2, 0.102);
 }
 .img-box{
     /* border: 1px solid white; */
