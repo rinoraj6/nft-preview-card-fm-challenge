@@ -141,6 +141,7 @@ h1:hover{
     display: flex;
     gap: 1rem;
     align-items: center;
+    margin-bottom: 1rem;
 }
 .creator-img-box{
     width: 10%;
